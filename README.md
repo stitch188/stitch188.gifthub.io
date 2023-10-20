@@ -1,1 +1,1 @@
-# stitch188.gifthub.io
+# stitch188.github.io
